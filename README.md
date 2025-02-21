@@ -53,6 +53,12 @@ Many windowsgsm plugin creators recommend zerotier (should be a free VPN designa
 - They can connect using the IP you've created eg: 10.123.17.1:7777
 - Enjoy
 
+### Give Love!
+[Buy me a coffee](https://ko-fi.com/raziel7893)
+
+[Paypal](https://paypal.me/raziel7893)
+
+
 ### Support
 [WGSM](https://discord.com/channels/590590698907107340/645730252672335893)
 
